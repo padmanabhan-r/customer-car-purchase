@@ -1,1 +1,2 @@
-# customer-car-purchase
+# predicting-vehicle-sales
+Predicting Vehicle Sales
